@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\bin\Debug\bt.exe.config
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\obj\Debug\bt.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\obj\Debug\bt.Form1.resources
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\obj\Debug\bt.Properties.Resources.resources
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\obj\Debug\bt.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\bin\Debug\bt.exe
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\bin\Debug\bt.pdb
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\obj\Debug\bt.exe
+C:\Users\Admin\Documents\Công nghệ .NET\bttrewview\bt\bt\obj\Debug\bt.pdb

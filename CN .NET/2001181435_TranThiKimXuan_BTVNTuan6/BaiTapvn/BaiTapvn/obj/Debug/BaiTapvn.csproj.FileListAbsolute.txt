@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\bin\Debug\BaiTapvn.exe.config
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\bin\Debug\BaiTapvn.exe
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\bin\Debug\BaiTapvn.pdb
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.Form1.resources
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.Properties.Resources.resources
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.exe
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.pdb
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.bt2.resources
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan6\BaiTapvn\BaiTapvn\obj\Debug\BaiTapvn.bt1.resources

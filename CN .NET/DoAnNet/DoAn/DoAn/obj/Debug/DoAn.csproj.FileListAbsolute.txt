@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.Hoadon.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.Phieunhap.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\Admin\Documents\DoAnNet\DoAn\DoAn\obj\Debug\DoAn.DangNhap.resources

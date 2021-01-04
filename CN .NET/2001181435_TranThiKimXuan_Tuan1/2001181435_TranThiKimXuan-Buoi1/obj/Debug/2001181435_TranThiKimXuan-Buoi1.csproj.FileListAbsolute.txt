@@ -1,0 +1,12 @@
+E:\LuuDuLieuSinhVien\2001181435-TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\bin\Debug\2001181435_TranThiKimXuan-Buoi1.exe.config
+E:\LuuDuLieuSinhVien\2001181435-TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\bin\Debug\2001181435_TranThiKimXuan-Buoi1.exe
+E:\LuuDuLieuSinhVien\2001181435-TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\bin\Debug\2001181435_TranThiKimXuan-Buoi1.pdb
+E:\LuuDuLieuSinhVien\2001181435-TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\obj\Debug\2001181435_TranThiKimXuan-Buoi1.exe
+E:\LuuDuLieuSinhVien\2001181435-TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\obj\Debug\2001181435_TranThiKimXuan-Buoi1.pdb
+E:\LuuDuLieuSinhVien\2001181435-TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\obj\Debug\2001181435_TranThiKimXuan-Buoi1.csprojResolveAssemblyReference.cache
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\bin\Debug\2001181435_TranThiKimXuan-Buoi1.exe.config
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\obj\Debug\2001181435_TranThiKimXuan-Buoi1.exe
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\obj\Debug\2001181435_TranThiKimXuan-Buoi1.pdb
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\bin\Debug\2001181435_TranThiKimXuan-Buoi1.exe
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\bin\Debug\2001181435_TranThiKimXuan-Buoi1.pdb
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_Tuan1\2001181435_TranThiKimXuan-Buoi1\obj\Debug\2001181435_TranThiKimXuan-Buoi1.csprojResolveAssemblyReference.cache

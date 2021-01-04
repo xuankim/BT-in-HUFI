@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\bin\Debug\btvn9.exe.config
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\bin\Debug\btvn9.exe
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\bin\Debug\btvn9.pdb
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\obj\Debug\btvn9.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\obj\Debug\btvn9.Form1.resources
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\obj\Debug\btvn9.Properties.Resources.resources
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\obj\Debug\btvn9.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\obj\Debug\btvn9.exe
+C:\Users\Admin\Documents\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan9\btvn9\btvn9\obj\Debug\btvn9.pdb

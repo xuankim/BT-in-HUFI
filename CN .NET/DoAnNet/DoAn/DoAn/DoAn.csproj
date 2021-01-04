@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D42883F8-C9AF-4B41-8728-7618C85C7BB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoAn</RootNamespace>
+    <AssemblyName>DoAn</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoadon.Designer.cs">
+      <DependentUpon>Hoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Phieunhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phieunhap.Designer.cs">
+      <DependentUpon>Phieunhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPham.Designer.cs">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xuly.cs" />
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoadon.resx">
+      <DependentUpon>Hoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Phieunhap.resx">
+      <DependentUpon>Phieunhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPham.resx">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="anh\database.xlsx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbProcess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbSave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbAddNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbPrint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbProcess1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbSave1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbAddNew1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbDelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbRefresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slide_index_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filesaveas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filesaveas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="anh\117598798-1669481393217019-2733634337363942966-n.jpg_v=1597819337000.jpg" />
+    <Content Include="anh\118274912-1676901085808383-4721738332879239494-n.jpg_v=1598509525000.jpg" />
+    <Content Include="anh\119549718-1698416293656862-8026301910009318647-o.jpg_v=1600668558000.jpg" />
+    <Content Include="anh\124175173-1746363665528791-1341592360941194998-o.jpg_v=1604998774000.jpg" />
+    <Content Include="anh\125185374-1749526221879202-1018442684144882496-o.jpg_v=1605695505000.jpg" />
+    <Content Include="anh\125526365-1755021684662989-7050212893143826224-o.jpg_v=1605787404000.jpg" />
+    <Content Include="anh\37858885-1035898499908648-3863492892873981952-o.jpg_v=1538565686000.jpg" />
+    <Content Include="anh\37865693-1035904289908069-8815660807309230080-o.jpg_v=1538565188000.jpg" />
+    <Content Include="anh\40603052-1073998869431944-5499477765923012608-o.jpg_v=1538562254000.jpg" />
+    <Content Include="anh\40617193-1073998652765299-1617914790288556032-o.jpg_v=1538562713000.jpg" />
+    <Content Include="anh\41739404-1080993552065809-6903807221310685184-o.jpg_v=1538489553000.jpg" />
+    <Content Include="anh\58751206-1224528651045631-2740601434528546816-n.jpg_v=1556432791000.jpg" />
+    <Content Include="anh\62020335-1261364830695346-6204323878206963712-n.jpg_v=1559972689000.jpg" />
+    <Content Include="anh\73458865-978164459207756-5590840336013328384-n.jpg_v=1573471781000.jpg" />
+    <Content Include="anh\77174535-975370186153558-2427803888393388032-n.jpg_v=1573296222000.jpg" />
+    <Content Include="anh\84858282-1499681206863706-4696649297700061184-o.jpg_v=1581227427000.jpg" />
+    <Content Include="anh\88169086-1516504355181391-2844007342024949760-o-cc6783af-dd44-4a25-9f13-9f8af171d02a.jpg_v=1592559570000.jpg" />
+    <Content Include="anh\AdiasNam.xml" />
+    <Content Include="anh\img-4065.jpg_v=1582104173000.jpg" />
+    <Content Include="anh\img-4222.jpg_v=1583064920000.jpg" />
+    <Content Include="anh\img-6806.jpg_v=1596941409000.jpg" />
+    <Content Include="anh\img-6818.jpg_v=1596895520000.jpg" />
+    <Content Include="anh\img-6827.jpg_v=1596895096000.jpg" />
+    <Content Include="anh\img-6837.jpg_v=1596894316000.jpg" />
+    <Content Include="anh\img-6841.jpg_v=1596893347000.jpg" />
+    <Content Include="anh\img-6849.jpg_v=1596892188000.jpg" />
+    <Content Include="anh\img-6853.jpg_v=1596891922000.jpg" />
+    <Content Include="anh\img-6859.jpg_v=1596891749000.jpg" />
+    <Content Include="anh\img-6891.jpg_v=1596891249000.jpg" />
+    <Content Include="anh\img-6896.jpg_v=1596890752000.jpg" />
+    <Content Include="anh\img-6902.jpg_v=1596890525000.jpg" />
+    <Content Include="anh\img-6906.jpg_v=1596890227000.jpg" />
+    <Content Include="anh\img-7090.jpg_v=1597670152000.jpg" />
+    <Content Include="anh\img-7094.jpg_v=1597670265000.jpg" />
+    <Content Include="anh\img-7099.jpg_v=1597671278000.jpg" />
+    <Content Include="anh\img-7120.jpg_v=1597819777000.jpg" />
+    <Content Include="anh\img-7124.jpg_v=1598185890000.jpg" />
+    <Content Include="anh\img-7542.jpg_v=1598857698000.jpg" />
+    <Content Include="anh\img-7564.jpg_v=1599296701000.jpg" />
+    <Content Include="anh\img-8167.jpg_v=1599297027000.jpg" />
+    <Content Include="anh\LogoThuongHieu\Adias.png" />
+    <Content Include="anh\LogoThuongHieu\Asics.png" />
+    <Content Include="anh\LogoThuongHieu\Converse.png" />
+    <Content Include="anh\LogoThuongHieu\Jordan.png" />
+    <Content Include="anh\LogoThuongHieu\Nike.png" />
+    <Content Include="anh\LogoThuongHieu\Puma.png" />
+    <Content Include="anh\LogoThuongHieu\Vans.png" />
+    <Content Include="anh\NamVans.xml" />
+    <Content Include="anh\NikeNam.xml" />
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

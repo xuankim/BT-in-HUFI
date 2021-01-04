@@ -1,0 +1,5 @@
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Công nghệ .NET\2001181435_TranThiKimXuan_BTVNTuan2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
